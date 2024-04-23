@@ -1,0 +1,32 @@
+.img-box img{
+    border-radius: 10px !important;
+    width:90% !important;
+}
+.ss
+{
+    margin:20px;
+}
+.container{
+    background-color: #23404B;
+}
+.card
+{
+    background-image: linear-gradient(to right,#DDCAA3,#43555A);
+    color: white !important;
+}
+.img-box
+{
+    height:8em;
+    display: flex;
+    justify-content: center;
+}
+.card-body
+{
+    align-items: center;
+    display: flex;
+    flex-direction:column;
+}
+.card-text
+{
+    padding: 10px;
+}
